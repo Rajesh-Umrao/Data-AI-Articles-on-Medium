@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:00A8E8,30:0052CC,70:8E44AD,100:2C3E50&text=Data/AI-Articles%20on%20Medium&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SQL%20%E2%80%A2%20Python%20%E2%80%A2%20AI/ML%20%E2%80%94%20131%20Articles%20Indexed&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:064E3B,30:047857,70:0D9488,100:14B8A6&text=Data/AI-Articles%20on%20Medium&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SQL%20%E2%80%A2%20Python%20%E2%80%A2%20AI/ML%20%E2%80%94%20131%20Articles%20Indexed&descAlignY=60&descSize=18" width="100%"/>
 
 </div>
 
@@ -179,17 +179,46 @@ _All **131** articles, sorted newest → oldest. Use `Ctrl+F` / `Cmd+F` to searc
 | SQL Pivoting | Pivoting in SQL | ![SQL](https://img.shields.io/badge/SQL-0052CC?style=flat-square) | [![Read](https://img.shields.io/badge/Read-%E2%86%92-2E86C1?style=flat-square)](https://medium.com/@rajesh_data_ai/pivoting-in-sql-ff12e3a7665a) |
 | Finance Concepts | What is Hurdle rate ? Why is the Hurdle Rate Important for Investors? | ![Finance](https://img.shields.io/badge/Finance-C0392B?style=flat-square) | [![Read](https://img.shields.io/badge/Read-%E2%86%92-2E86C1?style=flat-square)](https://medium.com/@rajesh_data_ai/what-is-hurdle-rate-why-is-the-hurdle-rate-important-for-investors-ff915c12ebbe) |
 
----
 
-## 🌐 Community: Connect With Me
+<!-- -------------------6)Start: Community-------------------------------------------------------------->
 
-| Platform | Link |
-|:--|:--|
-| 🎯 Medium | [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajesh_data_ai) |
-| 📺 YouTube | [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rajesh_data_ai) |
-| 💻 GitHub | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajesh-Umrao) |
+# 🌐 Community: Connect With Me 
 
----
+<table>
+<tr>
+<th align="left">Platform</th>
+<th align="left">Link</th>
+</tr>
+
+<tr>
+<td>📺 YouTube</td>
+<td><a href="https://www.youtube.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=YouTube"></a></td>
+</tr>
+
+<tr>
+<td>💻 WhatsApp</td>
+<td><a href="https://whatsapp.com/channel/0029VbBMAuOE50UewyMbGJ1o"><img src="https://img.shields.io/badge/WhatsApp-Join-teal?style=for-the-badge&logo=whatsapp"></a></td>
+</tr>
+
+<tr>
+<td>🌐 Telegram</td>
+<td><a href="https://t.me/rajesh_data_ai"><img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram"></a></td>
+</tr>
+
+<tr>
+<td>💻 Instagram</td>
+<td><a href="https://www.instagram.com/rajesh_data_ai/"><img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram"></a></td>
+</tr>
+
+<tr>
+<td>🎯 Medium</td>
+<td><a href="https://medium.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium"></a></td>
+</tr>
+</table>
+
+
+
+<!-- -------------------6)end: Community-------------------------------------------------------------->
 
 <details>
 <summary><h3 style='display:inline'>✍️ Notes on This Index (click to expand)</h3></summary>
@@ -201,6 +230,6 @@ _All **131** articles, sorted newest → oldest. Use `Ctrl+F` / `Cmd+F` to searc
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2C3E50,50:8E44AD,100:0052CC&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:064E3B,30:047857,70:0D9488,100:14B8A6&section=footer" width="100%"/>
 
 </div>
