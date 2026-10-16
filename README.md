@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:064E3B,30:047857,70:0D9488,100:14B8A6&text=Data/AI-Articles%20on%20Medium&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SQL%20%E2%80%A2%20Python%20%E2%80%A2%20AI/ML%20%E2%80%94%20131%20Articles%20Indexed&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:064E3B,30:047857,70:0D9488,100:14B8A6&text=Data/AI-Articles%20on%20Medium&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SQL%20%E2%80%A2%20Python%20%E2%80%A2%20AI/ML%20%E2%80%94%20132%20Articles%20Indexed&descAlignY=60&descSize=18" width="100%"/>
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/131%20Articles-0052CC?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/152%20Articles-0052CC?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/SQL%20Focused-2E86C1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <a href="https://medium.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.youtube.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
